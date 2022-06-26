@@ -55,10 +55,7 @@ You can deploy this bot anywhere.
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
 <details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-[[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theharshitprajapati/EvaMaria/)</br>
-</p>
+<p><a href="https://dashboard.heroku.com/new?button-url=https://github.com&template=https://github.com/theharshitprajapati/EvaMaria"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" alt="Deploy to Heroku" /></a></p>
 </details>
 
 <details><summary>Deploy To VPS</summary>
